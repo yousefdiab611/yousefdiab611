@@ -9,9 +9,9 @@ from rest_framework.response import Response
 
 @api_view(['POST'])
 def introduce_yourself(request):
-    name = request.data.get('name', Mohamed Gaber')
-    occupation = request.data.get('occupation', 'system admin & cloud Engineer')
-    interests = request.data.get('interests', [ 'Administration','Cloud' ])
+    name = request.data.get('name', Yousef Diab')
+    occupation = request.data.get('occupation', 'DevOps & cloud Engineer')
+    interests = request.data.get('interests', [ 'Fullstack'])
 
     introduction = f"Hello, my name is {name}. I am a {occupation} and my interests include {', '.join(interests)}."
 
