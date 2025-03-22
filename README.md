@@ -44,16 +44,16 @@
   <!--<a href="https://www.github.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="figma" width="40" height="40"/>
   </a> -->
-   <a href="https://www.redhat.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="Red Hat" width="40" height="40"/>
-   </a>
+<!--    <a href="https://www.redhat.com/" target="_blank" rel="noopener noreferrer"> -->
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="Red Hat" width="40" height="40"/>
+   </a> -->
   
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
+<!--   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>  -->
+<!--   <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/> -->
+<!--   </a> -->
 
 <!--   <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -70,10 +70,10 @@
 <!--   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> -->
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+<!--  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> -->
+<!--  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   
