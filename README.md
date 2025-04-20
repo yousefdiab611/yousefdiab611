@@ -147,9 +147,10 @@
 
 🕵️‍♂️ About Me
 
-    🏢 Founder & Lead Development at DevEra Innovations
-    
+
     🙂 I am Yousef Diab And Im 21 years old.
+
+    🏢 Founder & Lead Development at DevEra Innovations
 
     📍 I am Egyptian and I live in Tanta, Egypt.
    
