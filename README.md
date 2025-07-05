@@ -29,7 +29,7 @@
 ---
 
 ### 💻 Languages & Tools:
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" />
