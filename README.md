@@ -24,7 +24,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- محتوى اللوجوهات الطويل من الكود المرسل أعلاه، تم تلخيصه اختصاراً هنا -->
-  [تم دمج جميع الأيقونات واللوجوهات هنا بشكل منسق في سطر واحد، مع الحفاظ على العرض الطبيعي للصور بدون تكسير]
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdiab611&show_icons=true&locale=en&layout=compact" alt="yousefdiab611" /></p>
