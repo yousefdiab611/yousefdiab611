@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Diab</h1>
 <h3 align="center">A passionate WordPress developer & DevOps from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefdiab611&label=Profile%20views&color=0e75b6&style=flat" alt="yousefdiab611" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefdiab611" alt="yousefdiab611" /></a> </p>
 
